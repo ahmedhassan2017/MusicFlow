@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Music Flow</string>
+    <string name="word">Find your music</string>
+    <string name="description">“Music is like a dream. One that I cannot hear.”
+        ― Ludwig van Beethoven “Without music, life would be a mistake”
+        ― Friedrich Nietzsche “I can chase you, and I can catch you, but there is nothing I can do to make you mine.”
+        ― Morrissey “Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything.”
+        ― Plato</string>
+    <string name="description2">“Music is the shorthand of emotion.”
+        ― Leo Tolstoy “Without music, life would be a blank to me.”
+        ― Jane Austen “If music be the food of love, play on, Give me excess of it; that surfeiting, The appetite may sicken, and so die.”
+        ― William Shakespeare “Music was my refuge. I could crawl into the space between the notes and curl my back to loneliness.”
+        ― Maya Angelou “After silence, that which comes nearest to expressing the inexpressible is music.”
+        ― Aldous Huxley</string>
+</resources>
