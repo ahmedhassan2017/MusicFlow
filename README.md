@@ -16,7 +16,7 @@ The android app lets you:
 * View songs,atrists and publishing dates
 
 # Screenshots
-Main Activity              |  Detailed Activity         |  Detailed Activity
+SplashScreen              |  MainActivity         |  DetailedActivity
 :-------------------------:|:-------------------------: |:-------------------------:
 ![](https://github.com/ahmedhassan2017/MusicFlow/blob/master/app/src/main/res/drawable-v24/screen1.jpeg)  |  ![](https://github.com/ahmedhassan2017/MusicFlow/blob/master/app/src/main/res/drawable-v24/screen2.jpeg)  |  ![](https://github.com/ahmedhassan2017/MusicFlow/blob/master/app/src/main/res/drawable-v24/screen3.jpeg)
 
