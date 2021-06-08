@@ -37,7 +37,7 @@ SplashScreen              |  MainActivity         |  DetailedActivity
     }
 }
 ```
- Code snippet of getToken fun that gets the access token
+ Code snippet of getToken fun that gets the access token using Observation (RXjava)
  ```
  fun getToken (){
             val observable: @NonNull Observable<TokenModel?>? =
