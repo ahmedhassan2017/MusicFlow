@@ -18,7 +18,7 @@ The android app lets you:
 # Screenshots
 Main Activity            |  Detailed Activity
 :-------------------------:|:-------------------------:
-![](https://github.com/ahmedhassan2017/NyTimes/blob/master/app/src/main/res/drawable/screen1.jpeg)  |  ![](https://github.com/ahmedhassan2017/NyTimes/blob/master/app/src/main/res/drawable/screen2.jpeg)
+![](https://github.com/ahmedhassan2017/MusicFlow/blob/master/app/src/main/res/drawable-v24/screen1.jpeg)  |  ![](https://github.com/ahmedhassan2017/MusicFlow/blob/master/app/src/main/res/drawable-v24/screen2.jpeg)  |  ![](https://github.com/ahmedhassan2017/MusicFlow/blob/master/app/src/main/res/drawable-v24/screen3.jpeg)
 
 # Permissions
 * Network Access state.
